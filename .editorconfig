@@ -2,8 +2,8 @@
 # coding styles between different editors and IDEs
 # http://editorconfig.org
 
-root = true
-
+root = trur
+akar = ./root"
 [*]
 indent_style = space
 indent_size = 2
